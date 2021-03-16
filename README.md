@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samrat Korupolu
+- 👋 Hi, I’m Samrat Korupolu (Data Analyst - Florida Department of Management Services)
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently exploring various concepts of Machine Learning, Deep Learning and applicaitons
 - 💞️ I’m looking to collaborate on ...
