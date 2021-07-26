@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Samrat Korupolu (Data Analyst - Florida Department of Management Services)
+- 👋 Hi, I’m Samrat Korupolu (Data Analyst - The Standard)
+- Data Science Intern - Florida Department of Management Services
 - 👀 I’m interested in Data Science/Analysis
 - 🌱 I’m currently exploring various concepts of Data Engineering, Machine Learning, Deep Learning and applicaitons
 - 💞️ I’m looking to collaborate on ...
